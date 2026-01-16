@@ -9,7 +9,6 @@ This repository contains the conceptual framework, scientific documentation, and
 It does not include implementations or applied systems.
 
 Full Paper (PDF)
-📄 [Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 Archived with DOI: https://doi.org/10.5281/zenodo.18266715 (doi.org in Bing)
 
 Core Invariants
