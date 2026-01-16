@@ -1,4 +1,5 @@
 Genesis: Minimal Invariant Framework for Emergent Systems
+
 A generative systems‑theory ontology for emergence, structure, intelligence, and multi‑scale dynamics.
 DOI (doi.org in Bing)
 
