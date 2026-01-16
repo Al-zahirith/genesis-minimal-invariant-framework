@@ -58,11 +58,11 @@ S(t) = Σ Bᵢ(t) – Σ Tᵢ(t)
 Universal states:
 
 - Expansion: S(t) > 0
-- 
+  
 - Sustainment: S(t) = 0
-- 
+  
 - Collapse: S(t) < 0
-- 
+  
 - This model applies across domains and scales.
 
 What this is not
@@ -72,7 +72,7 @@ What this is not
 - Not a value‑alignment framework
 - Not a metaphysical doctrine
 - Genesis is a generative, testable ontology for systems behavior.
-- 
+  
 Repository contents
 
 docs/
