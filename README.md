@@ -77,6 +77,7 @@ What This Is Not
 Genesis is a generative, testable ontology for systemic behavior.
 
 Repository Structure
+
 docs/      — Published PDF and supporting materials  
 assets/    — Optional diagrams or images  
 src/       — Placeholder for future implementations  
