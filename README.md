@@ -65,6 +65,7 @@ Universal states:
 - Expansion: S(t) > 0
 - Sustainment: S(t) = 0
 - Collapse: S(t) < 0
+  
 This model applies across domains and scales.
 
 What This Is Not
@@ -72,6 +73,7 @@ What This Is Not
 - Not a universal optimizer
 - Not a value‑alignment framework
 - Not a metaphysical doctrine
+  
 Genesis is a generative, testable ontology for systemic behavior.
 
 Repository Structure
