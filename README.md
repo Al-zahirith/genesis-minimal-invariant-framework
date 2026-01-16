@@ -4,8 +4,10 @@ A generative systems‑theory ontology for emergence, structure, intelligence, a
 DOI: https://doi.org/10.5281/zenodo.18266715 (doi.org in Bing)
 
 Overview
+
 Genesis is a minimal invariant ontology describing how complex systems arise, stabilize, differentiate, adapt, and collapse from a small set of structural invariants.
 It is domain‑agnostic and applies across physical, biological, cognitive, social, and artificial systems.
+
 This repository contains the conceptual framework, scientific documentation, and formal definitions.
 It does not include implementations or applied systems.
 
@@ -41,6 +43,7 @@ An irrational proportionality class that prevents recursive symmetry convergence
 Φ (φ as a canonical instance) stabilizes differentiation and prevents collapse into trivial symmetry.
 
 Minimum Topological Requirement
+
 A system must contain three distinguishable states to support:
 - closure
 - feedback
@@ -48,6 +51,7 @@ A system must contain three distinguishable states to support:
 This is a topological constraint, not geometric or numerological.
 
 Substrate Betterment Model
+
 All systems share a substrate. Nodes interact with that substrate through three roles:
 - Bᵢ — coherence contribution
 - Tᵢ — turbulence generation
