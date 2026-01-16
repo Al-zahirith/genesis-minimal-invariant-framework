@@ -87,9 +87,12 @@ README.md  — Project overview
 
 
 How to Cite
+
 Shadow (Al’Zahirith). Genesis: Minimal Invariant Framework for Emergent Systems.
 Zenodo. https://doi.org/10.5281/zenodo.18266715 (doi.org in Bing)
+
 BibTeX:
+
 @article{genesis2026minimal,
   title={Genesis: Minimal Invariant Framework for Emergent Systems},
   author={Al'Zahirith},
