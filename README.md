@@ -98,7 +98,7 @@ BibTeX:
   
   year={2026},
   
-  doi={10.1234/zenodo.xxxxxx},
+  doi={10.5281/zenodo.18266715},
   
   url={https://github.com/Al-zahirith/genesis-minimal-invariant-framework}
 
