@@ -48,6 +48,7 @@ A system must contain three distinguishable states to support:
 - closure
 - feedback
 - gradient formation
+- 
 This is a topological constraint, not geometric or numerological.
 
 Substrate Betterment Model
