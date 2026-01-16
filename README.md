@@ -3,6 +3,7 @@ Genesis: Minimal Invariant Framework for Emergent Systems
 A systems‑theory ontology for emergence, structure, intelligence, and multi‑scale dynamics.
 
 Overview
+
 Genesis is a minimal generative ontology describing how complex systems arise, stabilize, adapt, and collapse from a small set of invariants. It is domain‑agnostic and applies to physical, biological, cognitive, social, and artificial systems.
 
 This repository contains the conceptual framework, scientific documentation, and formal definitions. It does not include implementations or applied systems.
