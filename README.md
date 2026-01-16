@@ -40,8 +40,11 @@ All systems share a substrate. Nodes interact with that substrate through three 
 - Bᵢ — coherence contribution
 - Tᵢ — turbulence generation
 - Cᵢ — internal stability maintenance
+- 
 Global system state:
+
 S(t)=\sum B_i(t)-\sum T_i(t)
+
 Universal states:
 - Expansion: S(t) > 0
 - Sustainment: S(t) = 0
